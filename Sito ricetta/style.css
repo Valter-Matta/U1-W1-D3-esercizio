@@ -1,0 +1,71 @@
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;}
+ header{
+        text-align: center
+    }
+ header div{
+        margin-top: 10px;
+       background-color: rgb(254, 254, 171);
+        border-top: solid;
+        border-color: rgb(249, 249, 61);
+        height: 50px;
+        text-align: center;
+        align-content: center;
+    }
+main{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+h1{text-align: center;}
+
+#focaccia{
+       margin-bottom: 5px;
+        width: 100%;
+        align-items: center;
+        border-radius: 6px;
+        box-shadow: 10px 5px 5px rgb(172, 166, 166);}
+       
+#Sally{
+            text-align: center;
+            font-size: 10px;
+            color: rgb(200, 198, 198)
+        }
+.center{
+            text-align: center;
+            align-items: center;
+        }
+section{border-left: solid rgb(238, 222, 7);
+margin-top: 10px;
+}
+
+section div{
+    padding-top: 5px;
+    color: orangered;
+    padding-left: 10px;
+    }
+section p {
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+ul {
+    font-weight: bold;
+    padding: 0px;
+    text-align: left;
+    align-items: flex-start;
+}
+.hr {
+
+    color: rgb(10, 9, 9);
+}
+footer h5{
+    padding-left: 30px;
+}
+footer p{
+    padding-left: 30px;
+}
+
